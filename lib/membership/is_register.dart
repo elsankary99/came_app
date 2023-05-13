@@ -1,0 +1,4 @@
+enum IsRegister {
+  yes,
+  no,
+}
